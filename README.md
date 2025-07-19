@@ -6,12 +6,19 @@ This project performs sentiment analysis on Amazon product reviews using machine
 ## Project Structure
 
 Sentiment Analysis for Product reviews/
+
 ├── Sentiment Analysis.ipynb
+
 ├── app.py
+
 ├── 1429_1.csv
+
 ├── Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
+
 ├── Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+
 ├── sentiment_model.pkl
+
 ├── tfidf_vectorizer.pkl
 
 ## Description
